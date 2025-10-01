@@ -1,0 +1,13 @@
+Repositorio: Es el lugar de alojamiento del código
+
+Commit : Realizar commit permite guardar cambios de códigos con mensajes descriptivos para mantener el historial del proyecto
+
+Rama (Branch): Es una línea de desarrollo independiente.
+
+Merge: Nos ayuda a unir ramas
+
+Remote : Es un repositorio en la nube (Git Hub)
+
+Push: Comando para subir cambios locales al remoto.
+
+Pull: Comando que trae cambios del remoto l local.
