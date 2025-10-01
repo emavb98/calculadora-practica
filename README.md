@@ -1,1 +1,2 @@
 RepositorioCalculadora
+Trabajo en grupo
